@@ -113,6 +113,10 @@
         .nav-list{
             margin-top: 19px;
         }
+        .thought{
+            height: 300px;
+            width: 200px;
+        }
     }
 
 
@@ -211,9 +215,7 @@
                     <div class="col-md-12 probootstrap-animate">
                         <div class="owl-carousel owl-carousel-testimony owl-carousel-fullwidth">
                             <div class="item">
-                               <img src="img/feedback/1.jpeg" class="d-block" height="300" width="200" alt="Student Feedback">
-                                    
-
+                               <img src="img/thought/1.jpeg" class="d-block thought" height="400" width="200" alt="Student Feedback">  
                             </div>
                             <div class="item">
                                 <!-- <div class="probootstrap-testimony-wrap text-center">
@@ -224,7 +226,7 @@
                                         a while.&rdquo; <cite class="author"> &mdash;<span>Jorge Smith</span></cite></blockquote>
                                 </div> -->
                                 
-                               <img src="img/feedback/2.jpeg" class="d-block" height="300" width="200" alt="Student Feedback">
+                               <img src="img/thought/2.jpeg" class="d-block thought" height="400" width="150" alt="Student Feedback">
                             </div>
                             <div class="item">
                                 <!-- <div class="probootstrap-testimony-wrap text-center">
@@ -235,10 +237,33 @@
                                         <cite class="author">&mdash; <span>Brandon White</span></cite></blockquote>
                                 </div> -->
                                 
-                               <img src="img/feedback/3.jpeg" class="d-block" height="300" width="200" alt="Student Feedback">
+                               <img src="img/thought/3.jpeg" class="d-block thought" height="400" width="150" alt="Student Feedback">
+                            </div>
+
+                            <div class="item">
+                                <!-- <div class="probootstrap-testimony-wrap text-center">
+                                    <figure>
+                                        <img src="img/person_3.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                                    </figure>
+                                    <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo;
+                                        <cite class="author">&mdash; <span>Brandon White</span></cite></blockquote>
+                                </div> -->
+                                
+                               <img src="img/thought/4.jpeg" class="d-block thought" height="400" width="150" alt="Student Feedback">
                             </div>
                             
 
+                            <div class="item">
+                                <!-- <div class="probootstrap-testimony-wrap text-center">
+                                    <figure>
+                                        <img src="img/person_3.jpg" alt="Free Bootstrap Template by ProBootstrap.com">
+                                    </figure>
+                                    <blockquote class="quote">&ldquo;I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.&rdquo;
+                                        <cite class="author">&mdash; <span>Brandon White</span></cite></blockquote>
+                                </div> -->
+                                
+                               <img src="img/thought/5.jpeg" class="d-block thought" height="300" width="150" alt="Student Feedback">
+                            </div>
                         </div>
                     </div>
                 </div>
