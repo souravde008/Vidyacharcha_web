@@ -34,7 +34,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
       $mail->Port = '587';
   
       $mail->setFrom('souravdey.student@gmail.com'); // Gmail address which you used as SMTP server
-      $mail->addAddress('vidyacharcha@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
+      $mail->addAddress('souravdey.student@gmail.com'); // Email address where you want to receive emails (you can use any of your gmail address including the gmail address which you used as SMTP server)
   
       $mail->isHTML(true);
       $mail->Subject = 'Student Enrolled';
